@@ -24,7 +24,7 @@ I'm studying to become a deep learning engineer who deals with big data.
 <img src="https://user-images.githubusercontent.com/25631105/93962076-dc3a0b00-fd94-11ea-9691-7fed33aeef3c.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93959683-1c4cbe00-fd94-11ea-8f52-74e7aed4e987.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93959828-25d62600-fd94-11ea-9fe3-2b3570526353.png" width="40px" height="40px"></img>
-<img src="https://user-images.githubusercontent.com/25631105/93959928-2bcc0700-fd94-11ea-8d39-bae245f20d63.png" width="40px" height="40px"></img>
+<img src="https://user-images.githubusercontent.com/25631105/93965267-aa2ca700-fd9c-11ea-991b-7617d8a25024.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93961467-91b88e80-fd94-11ea-8042-4e162a22c169.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93960203-3eded700-fd94-11ea-9b3c-1feb34de3891.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93965023-004d1a80-fd9c-11ea-99e2-b12e8d1ce650.png" width="40px" height="40px"></img>
