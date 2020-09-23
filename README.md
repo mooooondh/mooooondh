@@ -1,10 +1,10 @@
 # Deep Learning Engineer
 Hello World!</br>
 I'm studying to become a deep learning engineer who deals with big data.
-> Data Analysis</br>
-> Visualization</br>
-> Recommendation</br>
-> CNN</br>
+* Data Analysis</br>
+* Visualization</br>
+* Recommendation</br>
+* CNN</br>
 
 ## My site
 <a href= "https://w-storage.tistory.com/"><img src="https://user-images.githubusercontent.com/25631105/93962225-42bf2900-fd95-11ea-9878-a8e927b8c70c.png" width="40px" height="40px"></img></a>
