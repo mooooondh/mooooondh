@@ -1,5 +1,4 @@
 # Deep Learning Engineer
-Hello World!</br>
 I'm studying to become a deep learning engineer who deals with big data.
 * Data Analysis</br>
 * Visualization</br>
