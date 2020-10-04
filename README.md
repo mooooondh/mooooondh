@@ -1,7 +1,8 @@
-# Deep Learning Engineer
+# Data Engineer
 I'm studying to become a deep learning engineer who deals with big data.
 * Data Analysis</br>
 * Visualization</br>
+* Deep Learning</br>
 * Recommendation</br>
 
 ## My site
