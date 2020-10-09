@@ -29,4 +29,5 @@ I'm studying to become a deep learning engineer who deals with big data.
 <img src="https://user-images.githubusercontent.com/25631105/93965023-004d1a80-fd9c-11ea-99e2-b12e8d1ce650.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93961741-a432c800-fd94-11ea-8103-2f126ba72a87.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93961839-aac13f80-fd94-11ea-8653-102a7ac803d2.png" width="40px" height="40px"></img>
+<img src="https://user-images.githubusercontent.com/25631105/95580391-395edd80-0a72-11eb-9efb-2c6575004fe0.png" width="40px" height="40px"></img>
 <img src="https://user-images.githubusercontent.com/25631105/93965128-45714c80-fd9c-11ea-9234-c14758725c9f.png" width="40px" height="40px"></img>
