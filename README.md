@@ -1,8 +1,8 @@
-# Data Engineer
+# Deep learning, Computer vision
+* Deep Learning</br>
+* Computer vision</br>
 * Data Analysis</br>
 * Visualization</br>
-* Deep Learning</br>
-* Recommendation</br>
 
 ## My site
 <a href= "https://w-storage.tistory.com/"><img src="https://user-images.githubusercontent.com/25631105/93962225-42bf2900-fd95-11ea-9878-a8e927b8c70c.png" width="40px" height="40px"></img></a>
